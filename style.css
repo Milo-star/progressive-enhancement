@@ -1,0 +1,57 @@
+*{
+    font-family: serif;
+    color: #593b35;
+    background-color: #a1a1a1;
+    
+}
+
+.titre{
+    background-color: yellow;
+}
+
+body{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+    background: -webkit-linear-gradient(61deg, rgb(112, 113, 115), rgb(195, 195, 195));
+    background: linear-gradient(61deg, rgb(112, 113, 115), rgb(195, 195, 195));
+}
+
+q{
+    background-color: blanchedalmond;
+    border-radius: 3px;
+    border-left: solid;
+    border-color: red;
+}
+
+table{
+    border-collapse: collapse;
+    color: white;
+    margin: auto;
+  }
+
+  th, td{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.citation{
+    font-style: italic;
+}
+
+h1{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.bad{
+    color: red;
+}
+
+.good{
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}
